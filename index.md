@@ -1,4 +1,4 @@
-### PHP Exercises List (Under Construction)
+### PHP Exercises (Under Construction)
 
   In order to see it, follow these steps:
   Download Repo / Launch Local Server and point to repo's folder / Open Browser in Localhost.
@@ -9,5 +9,5 @@
 ### PHP+DB (Under Construction)
 
 1. [Crud](https://github.com/Giampaolo1/php-crud-read-create-update)
-2. [OOP2](https://github.com/Giampaolo1/php-oop-2)
+2. [OOP](https://github.com/Giampaolo1/php-oop-2)
 <!-- 3. [Laravel](https://github.com/Giampaolo1/laravel-primi-passi) -->
