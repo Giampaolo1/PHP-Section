@@ -8,6 +8,6 @@
 
 ### PHP+DB (Under Construction)
 
-1. [Crud](https://github.com/Giampaolo1/php-crud-read-create-update)
+1. [CRUD](https://github.com/Giampaolo1/php-crud-read-create-update)
 2. [OOP](https://github.com/Giampaolo1/php-oop-2)
 <!-- 3. [Laravel](https://github.com/Giampaolo1/laravel-primi-passi) -->
